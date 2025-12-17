@@ -1,0 +1,23 @@
+[
+  {
+    "name": ".DS_Store",
+    "type": "file",
+    "path": ".DS_Store",
+    "size": 6148,
+    "isImage": false,
+    "extension": ""
+  },
+  {
+    "name": "documents",
+    "type": "folder",
+    "path": "documents"
+  },
+  {
+    "name": "suno.png",
+    "type": "file",
+    "path": "suno.png",
+    "size": 34688,
+    "isImage": true,
+    "extension": ".png"
+  }
+]
