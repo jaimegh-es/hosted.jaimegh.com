@@ -1,22 +1,73 @@
 [
   {
-    "name": ".DS_Store",
+    "name": "docker-termux-gemini.png",
     "type": "file",
-    "path": ".DS_Store",
-    "size": 6148,
-    "isImage": false,
-    "extension": ""
+    "path": "docker-termux-gemini.png",
+    "size": 1662168,
+    "isImage": true,
+    "extension": ".png"
   },
   {
-    "name": "documents",
-    "type": "folder",
-    "path": "documents"
+    "name": "inled-logo-full.png",
+    "type": "file",
+    "path": "inled-logo-full.png",
+    "size": 40275,
+    "isImage": true,
+    "extension": ".png"
+  },
+  {
+    "name": "linkedin-banner.png",
+    "type": "file",
+    "path": "linkedin-banner.png",
+    "size": 72983,
+    "isImage": true,
+    "extension": ".png"
+  },
+  {
+    "name": "linkedin-banner.svg",
+    "type": "file",
+    "path": "linkedin-banner.svg",
+    "size": 7605,
+    "isImage": true,
+    "extension": ".svg"
+  },
+  {
+    "name": "ohmyposh-spain-theme.png",
+    "type": "file",
+    "path": "ohmyposh-spain-theme.png",
+    "size": 25783,
+    "isImage": true,
+    "extension": ".png"
+  },
+  {
+    "name": "openwrt-telegram-notifier-autoban.png",
+    "type": "file",
+    "path": "openwrt-telegram-notifier-autoban.png",
+    "size": 531825,
+    "isImage": true,
+    "extension": ".png"
+  },
+  {
+    "name": "pve-post-install-13.sh",
+    "type": "file",
+    "path": "pve-post-install-13.sh",
+    "size": 26038,
+    "isImage": false,
+    "extension": ".sh"
   },
   {
     "name": "suno.png",
     "type": "file",
     "path": "suno.png",
     "size": 34688,
+    "isImage": true,
+    "extension": ".png"
+  },
+  {
+    "name": "tea-friendly.png",
+    "type": "file",
+    "path": "tea-friendly.png",
+    "size": 44122,
     "isImage": true,
     "extension": ".png"
   }
